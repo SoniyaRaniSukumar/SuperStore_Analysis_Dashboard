@@ -33,6 +33,20 @@ The Superstore Sales Dashboard provides a comprehensive analysis of retail sales
 
 •	Average Discount (%)
 
+## 📸 Dashboard Preview
+
+<img width="600" height="338" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/aa42a114-c72a-4592-988b-e481fb34d612" />
+
+
+
+
+
+
+
+
+
+
+
 •	Sales by Region / Category / Sub-Category
 
 •	Year-over-Year (YoY) Growth
