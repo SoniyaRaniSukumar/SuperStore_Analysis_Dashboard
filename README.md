@@ -6,9 +6,12 @@ The Superstore Sales Dashboard provides a comprehensive analysis of retail sales
 
 ## 🎯 Business Objectives
 
-•	Analyze total sales, profit, and quantity sold across different dimensions such as Region, Category, and Sub-Category.
+•	Analyze total sales, profit, and quantity sold across different dimensions such as Region, Category, and Sub-Category. 
+
 •	Identify top-performing and underperforming products to improve inventory and pricing strategies.
+
 •	Evaluate customer segments and order trends to optimize marketing and sales operations.
+
 •	Visualize profit ratio and discount impact on overall profitability.
 
 ## 📊 Key Insights
