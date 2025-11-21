@@ -16,8 +16,26 @@ The Superstore Sales Dashboard provides a comprehensive analysis of retail sales
 
 ## 📊 Key Insights
 •	Category & Region Analysis: The Technology category and West region consistently deliver the highest profit margins.
+
 •	Profitability: High discounts negatively affect profit ratios in the Furniture category.
+
 •	Customer Insights: Repeat customers contribute to a significant share of total revenue.
+
 •	Trend Analysis: Sales peak during year-end, indicating seasonal buying patterns.
+
+## 🧮 KPIs and Metrics
+
+•	Total Sales
+
+•	Total Profit
+
+•	Profit Margin (%)
+
+•	Average Discount (%)
+
+•	Sales by Region / Category / Sub-Category
+
+•	Year-over-Year (YoY) Growth
+
 
 
